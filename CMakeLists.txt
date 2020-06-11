@@ -2,6 +2,7 @@ project(implot)
 
 add_library(implot
 	implot.cpp
+	implot.h
 	implot_demo.cpp
 )
 
